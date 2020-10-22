@@ -75,7 +75,7 @@ const Header = () => {
                                             </NavLink>
                                         </NavItem>
                                         <NavItem>
-                                            <NavLink href="https://github.com/damianpugliese/todo-list-mern-stack" className="text-light"
+                                            <NavLink href="https://github.com/Ahmed116/To-Do-List" className="text-light"
                                                 target="blank"
                                             >
                                                 <img src={github} alt="gihub" className="github" />
